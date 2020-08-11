@@ -5,8 +5,8 @@ Thank you for your interests and enthusiasm which I didn't expect. Our regular m
 
 
 ## Meeting time
-1. Regular session: Monday 9 pm - 10 pm ET
-1. Q&A seeions: Tuesday 9 pm - 10 pm ET
+1. Regular session: Monday  9 pm - 10 pm ET
+1. Q&A seeion     : Tuesday 9 pm - 10 pm ET
 
 
 ## Setup 
