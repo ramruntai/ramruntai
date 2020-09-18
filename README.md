@@ -23,9 +23,8 @@ If needed, one-on-one or group discussions can be initiated by any attendee.
 Please send me the organizer a zoom private textmessage for one-on-one discussion. 
 
 ## Study Time Ettiquette
-
-#### Please turn on the video so that let every one else know you are studying and staying focused.
-#### Please mute your zoom so that we don't bother others.
+#### 1. Please turn on the video so that let every one else know you are studying and staying focused.
+#### 1. Please mute your zoom so that we don't bother others.
 #### Please turn down the volume of your device so that you are not bothered.
 #### Private discussions can be initiated by sending a private text message.
 #### For group discussions, the host will send out a public text messgae for group discussions
