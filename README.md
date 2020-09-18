@@ -1,13 +1,34 @@
 ### Hi there 👋
 
 Welcome to Remnant Python Study (RePS) Group
-Thank you for your interests and enthusiasm which I didn't expect. Our regular meeting will start in August with prayers and careful planning. Please pay attention to the annoucements from our organizational committee. Before we start our meetings, please try the following things, making yourself familiar with them.
-
+Thank you for your interests and enthusiasm which I didn't expect. Our regular meeting started in August 2020 with prayers and careful planning. Please pay attention to the annoucements from our organizational committee. Before you join our meetings, please try the following things, making yourself familiar with them.
 
 ## Meeting time
 1. Regular session: Monday  9 pm - 10 pm ET
-1. Q&A seeion     : Tuesday 9 pm - 10 pm ET
+1. Study time     : Tuesday 9 pm - 10 pm ET
+1. Study time     : Thursday 7 am - 8 am ET
+1. Study time     : Saturday 7 am - 8 am ET
 
+## What does the regular session look like?
+Meeting are held online. Zoom meeting invites are through our group chatting.
+If you are not in the group chat, please email ramruntai@gmail.com. 
+Currently we are going over one or two chapters of the book, Think Python.
+From November, the session will turn into project group meetings.
+Even during the project phase, basic Python programming review sessions will be offered for new commers or for those who need refreshers. 
+
+## What does the study time look like? 
+We meet online, bringing our own study material.
+Most of time, we silently read the material or practice programming. 
+If needed, one-on-one or group discussions can be initiated by any attendee.
+Please send me the organizer a zoom private textmessage for one-on-one discussion. 
+
+## Study Time Ettiquette
+
+#### Please turn on the video so that let every one else know you are studying and staying focused.
+#### Please mute your zoom so that we don't bother others.
+#### Please turn down the volume of your device so that you are not bothered.
+#### Private discussions can be initiated by sending a private text message.
+#### For group discussions, the host will send out a public text messgae for group discussions
 
 ## Setup 
 
