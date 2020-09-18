@@ -3,11 +3,11 @@
 Welcome to Remnant Python Study (RePS) Group
 Thank you for your interests and enthusiasm which I didn't expect. Our regular meeting started in August 2020 with prayers and careful planning. Please pay attention to the annoucements from our organizational committee. Before you join our meetings, please try the following things, making yourself familiar with them.
 
-## Meeting time
+## Meeting time (in September 2020)
 1. Regular session: Monday  9 pm - 10 pm ET
 1. Study time     : Tuesday 9 pm - 10 pm ET
-1. Study time     : Thursday 7 am - 8 am ET
-1. Study time     : Saturday 7 am - 8 am ET
+1. Study time     : Thursday 7 am - 8 am ET (From 09/24/2020)
+1. Study time     : Saturday 7 am - 8 am ET 
 
 ## What does the regular session look like?
 Meeting are held online. Zoom meeting invites are through our group chatting.
