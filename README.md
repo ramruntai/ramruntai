@@ -24,10 +24,10 @@ Please send me the organizer a zoom private textmessage for one-on-one discussio
 
 ## Study Time Ettiquette
 #### 1. Please turn on the video so that let every one else know you are studying and staying focused.
-#### 1. Please mute your zoom so that we don't bother others.
-#### Please turn down the volume of your device so that you are not bothered.
-#### Private discussions can be initiated by sending a private text message.
-#### For group discussions, the host will send out a public text messgae for group discussions
+#### 2. Please mute your zoom so that we don't bother others.
+#### 3. Please turn down the volume of your device so that you are not bothered.
+#### 4. Private discussions can be initiated by sending a private text message.
+#### 5. For group discussions, the host will send out a public text messgae for group discussions
 
 ## Setup 
 
