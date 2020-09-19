@@ -15,7 +15,7 @@ Thank you for your interests and enthusiasm which I didn't expect. Our regular m
    For those who will manage projects and collaborate with others on the github
    Anyone is welcome
 3. Advanced python : 
-   class, dataclass, typing, json, 
+   class, dataclass, typing, json
 
 
 ## What does the regular session look like?
@@ -39,7 +39,8 @@ Please send me the organizer a zoom private textmessage for one-on-one discussio
 ### 2. Please mute your zoom so that we don't bother others.
 ### 3. Please turn off the volume of your device so that you are not bothered.
 ### 4. Private discussions can be initiated by sending a private text message.
-### 5. For group discussions, please text a message to the host first. Then the host will send out an invitation message to everyone. The host may announce using a shared screen.
+### 5. For group discussions, please text a message to the host first. Then the host will send out an invitation message to everyone. 
+###    The host may announce using a shared screen.
 
 ## Setup 
 
