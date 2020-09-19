@@ -22,12 +22,12 @@ Most of time, we silently read the material or practice programming.
 If needed, one-on-one or group discussions can be initiated by any attendee.
 Please send me the organizer a zoom private textmessage for one-on-one discussion. 
 
-## Study Time Ettiquette
-#### 1. Please turn on the video so that let every one else know you are studying and staying focused.
+## Study Time Etiquette
+#### 1. Please turn on your camera to make sure that you are staying focused.
 #### 2. Please mute your zoom so that we don't bother others.
-#### 3. Please turn down the volume of your device so that you are not bothered.
+#### 3. Please turn off the volume of your device so that you are not bothered.
 #### 4. Private discussions can be initiated by sending a private text message.
-#### 5. For group discussions, the host will send out a public text messgae for group discussions
+#### 5. For group discussions, please text the host first. Then the host will send out a public text messgae for group discussions
 
 ## Setup 
 
