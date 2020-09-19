@@ -10,7 +10,12 @@ Thank you for your interests and enthusiasm which I didn't expect. Our regular m
 1. Study time     : Saturday 7 am - 8 am ET 
 
 ## Special days
-1. Project Day : 
+1. Project Introduction Days: October26, October 31
+2. Github crash course : October 17, October 20
+   For those who will manage projects and collaborate with others on the github
+   Anyone is welcome
+3. Advanced python : 
+   class, dataclass, typing, json, 
 
 
 ## What does the regular session look like?
@@ -26,12 +31,15 @@ Most of time, we silently read the material or practice programming.
 If needed, one-on-one or group discussions can be initiated by any attendee.
 Please send me the organizer a zoom private textmessage for one-on-one discussion. 
 
-## Study Time Etiquette
-#### 1. Please turn on your camera to make sure that you are staying focused.
-#### 2. Please mute your zoom so that we don't bother others.
-#### 3. Please turn off the volume of your device so that you are not bothered.
-#### 4. Private discussions can be initiated by sending a private text message.
-#### 5. For group discussions, please text a message to the host first. Then the host will send out a public text message for group discussions.
+### 0. If you just woke up a few minutes ago,  Stop right now and Do
+#### 0.0 Drink a glass hot water (1 min)
+#### 0.1 Prayerfully stretch your legs, back, and arms (3 min)
+#### 0.2 Start and practice deep breathing during the remaining study time
+### 1. Please turn on your camera to tell the world that you stay focused. 
+### 2. Please mute your zoom so that we don't bother others.
+### 3. Please turn off the volume of your device so that you are not bothered.
+### 4. Private discussions can be initiated by sending a private text message.
+### 5. For group discussions, please text a message to the host first. Then the host will send out an invitation message to everyone. The host may announce using a shared screen.
 
 ## Setup 
 
