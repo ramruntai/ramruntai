@@ -9,6 +9,10 @@ Thank you for your interests and enthusiasm which I didn't expect. Our regular m
 1. Study time     : Thursday 7 am - 8 am ET (From 09/24/2020)
 1. Study time     : Saturday 7 am - 8 am ET 
 
+## Special days
+1. Project Day : 
+
+
 ## What does the regular session look like?
 Meeting are held online. Zoom meeting invites are through our group chatting.
 If you are not in the group chat, please email ramruntai@gmail.com. 
@@ -27,7 +31,7 @@ Please send me the organizer a zoom private textmessage for one-on-one discussio
 #### 2. Please mute your zoom so that we don't bother others.
 #### 3. Please turn off the volume of your device so that you are not bothered.
 #### 4. Private discussions can be initiated by sending a private text message.
-#### 5. For group discussions, please text the host first. Then the host will send out a public text messgae for group discussions
+#### 5. For group discussions, please text a message to the host first. Then the host will send out a public text message for group discussions.
 
 ## Setup 
 
