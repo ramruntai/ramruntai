@@ -1,7 +1,29 @@
 ### Hi there 👋
 
-Welcome to Remnant Python Study (RePS) Group
+Welcome to Remnant AI Study Group
 Thank you for your interests and enthusiasm which I didn't expect. Our regular meeting started in August 2020 with prayers and careful planning. Please pay attention to the annoucements from our organizational committee. Before you join our meetings, please try the following things, making yourself familiar with them.
+
+## Meeting time (From the week of March 14 2021)
+1. Optional session: Monday  9 pm - 9:30 pm ET 
+1. Review session  : Friday  8 pm - 9:00 pm ET
+1. Study time      : Saturday 7 am - 7:30 am ET 
+
+## Study materials (March 2021-June 2021)
+
+- https://www.coursera.org/learn/time-series-survival-analysis/home/welcome 
+- https://www.coursera.org/learn/time-series-survival-analysis?specialization=ibm-machine-learning
+
+## Study materials in the near future (July 2021 - )
+### Corporate finance 
+- https://www.coursera.org/learn/wharton-finance
+
+### Foundation
+- https://www.edx.org/course/introduction-to-computational-thinking-and-data-4
+
+### NLP
+- https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+- https://www.coursera.org/specializations/natural-language-processing?=&page=1
+
 
 ## Meeting time (in September 2020)
 1. Regular session: Monday  9 pm - 10 pm ET
