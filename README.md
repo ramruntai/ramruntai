@@ -9,7 +9,7 @@ Thank you for your interests and enthusiasm which I didn't expect. Our regular m
 1. Study time      : Saturday 7 am - 7:30 am ET 
 
 ## Study materials (March 2021-June 2021)
-- udacity, https://classroom.udacity.com/courses/ud980
+- udacity, https://www.udacity.com/course/time-series-forecasting--ud980
 - coursera, https://www.coursera.org/learn/time-series-survival-analysis?specialization=ibm-machine-learning
 
 ## Study materials in the near future (July 2021 - )
