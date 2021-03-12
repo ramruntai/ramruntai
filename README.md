@@ -9,20 +9,19 @@ Thank you for your interests and enthusiasm which I didn't expect. Our regular m
 1. Study time      : Saturday 7 am - 7:30 am ET 
 
 ## Study materials (March 2021-June 2021)
-
-- https://www.coursera.org/learn/time-series-survival-analysis/home/welcome 
-- https://www.coursera.org/learn/time-series-survival-analysis?specialization=ibm-machine-learning
+- udacity, https://classroom.udacity.com/courses/ud980
+- coursera, https://www.coursera.org/learn/time-series-survival-analysis?specialization=ibm-machine-learning
 
 ## Study materials in the near future (July 2021 - )
 ### Corporate finance 
-- https://www.coursera.org/learn/wharton-finance
+- coursera, https://www.coursera.org/learn/wharton-finance
 
 ### Foundation
-- https://www.edx.org/course/introduction-to-computational-thinking-and-data-4
+- edx, https://www.edx.org/course/introduction-to-computational-thinking-and-data-4
 
 ### NLP
-- https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
-- https://www.coursera.org/specializations/natural-language-processing?=&page=1
+- coursera, https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+- coursera, https://www.coursera.org/specializations/natural-language-processing?=&page=1
 
 
 ## Meeting time (in September 2020)
